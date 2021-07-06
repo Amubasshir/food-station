@@ -85,3 +85,14 @@ background-repeat: no-repeat;
 .main-recepie-one img{
  width: 100%;
 }
+.last-f{
+  text-align: center;
+  box-sizing: border-box;
+  background: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+h3 span{
+  color: orange;
+}
