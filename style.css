@@ -1,0 +1,58 @@
+body{
+ margin: 0%;
+ padding: 0%;
+ font-family: 'Montserrat', sans-serif;
+}
+section{
+ height: 500px;
+ padding-bottom: 150px;
+}
+.half-width{
+ float: left;
+ width: 40%;
+ margin-left: 5%;
+ padding-left: 2%;
+}
+h2{
+ font-size: 50px;
+
+}
+h2 span{
+ color: orange;
+}
+.half-width img{
+ width: 100%;
+}
+.order-button{
+ text-decoration: none;
+ background: linear-gradient(45deg, lightsalmon, tomato);
+ padding: 10px 40px;
+ border-radius: 30px;
+ color: white;
+ font-weight: 400;
+}
+.half-width img{
+ width: 60%;
+}
+.contact-area{
+background-image: url(images/shapes/7.png);
+background-repeat: no-repeat;
+margin-top: 10%;
+
+}
+.contact-width{
+ margin-top: 10%;
+}
+.contact-button{
+ text-decoration: none;
+ background: linear-gradient(45deg, lightsalmon, tomato);
+ padding: 10px 40px;
+ border-radius: 30px;
+ color: white;
+ font-weight: 400;
+}
+.recipies{
+ text-align: center;
+ word-wrap: break-word;
+ word-spacing: 1px;
+}
